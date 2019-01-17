@@ -1,0 +1,3 @@
+- final_selenium_video : 채널 안에 있는 모든 동영상 다운로드 (모든 동영상을 다 받아야만 하므로 이용에 불편함이 있음) _ selenium
+- youtube_video_crawling : 동영상 정보 수집(상위 30개 정보수집)_beautiful soup4
+- youtube_video_download : 영상 다운로드 (링크만 가져와서 다운로드해서 경로에 저장)
